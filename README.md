@@ -36,6 +36,8 @@ coroutine.Stop();
 
 You can just copy-paste [LiteEditorCoroutine.cs](./Editor/LiteEditorCoroutine.cs) to your project in any Editor folder.
 
+Alternatively you can use UPM with link https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines.git
+
 ## Contributions
 
 Feel free to [report bugs, request new features](https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines/issues)
