@@ -40,22 +40,33 @@ Alternatively you can use UPM with link https://github.com/AlexeyPerov/Unity-Lit
 
 ## Contributions
 
-Feel free to [report bugs, request new features](https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines/issues)
-or to [contribute](https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines/pulls) to this project! 
+Feel free to report bugs, request new features
+or to contribute to this project!
+
+---
 
 ## Other tools
 
-##### More compact version of Editor coroutines
-See [Pocket-Editor-Coroutines](https://github.com/AlexeyPerov/Unity-Pocket-Editor-Coroutines).
-
 ##### Dependencies Hunter
 
-To find unreferenced assets in Unity project see [Dependencies-Hunter](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter).
+- To find unreferenced assets in Unity project see [Dependencies-Hunter](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter).
+
+##### Addressables Inspector
+
+- To analyze addressables layout [Addressables-Inspector](https://github.com/AlexeyPerov/Unity-Addressables-Inspector).
 
 ##### Missing References Hunter
 
-To find missing or empty references in your assets see [Missing-References-Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter).
+- To find missing or empty references in your assets see [Missing-References-Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter).
 
 ##### Textures Hunter
 
-To analyze your textures and atlases see [Textures-Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter).
+- To analyze your textures and atlases see [Textures-Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter).
+
+##### Materials Hunter
+
+- To analyze your materials and renderers see [Materials-Hunter](https://github.com/AlexeyPerov/Unity-Materials-Hunter).
+
+##### Asset Inspector
+
+- To analyze asset dependencies [Asset-Inspector](https://github.com/AlexeyPerov/Unity-Asset-Inspector).
